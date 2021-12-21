@@ -1,0 +1,19 @@
+body {
+  background-color: #F5F5F5;
+}
+h1 {
+  color: #F05454;
+}
+h2, h3, h5 {
+  color: #121212;
+}
+p {
+  color: #30475E;
+}
+span {
+  color: #EC255A;
+}
+
+.upper-container {
+  text-align: center;
+}
